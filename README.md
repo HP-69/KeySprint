@@ -2,7 +2,22 @@
 
 A beautiful, feature-complete clone of MonkeyType - the minimalist typing test application. Built with vanilla JavaScript, HTML, and CSS.
 
-![MonkeyType Clone](screenshot.png)
+## Screenshots
+
+### Default Dark Theme
+![MonkeyType Clone - Dark Theme](https://github.com/user-attachments/assets/352f3471-b1c3-4c8f-a13c-c4c08d2896c2)
+
+### Typing in Progress
+![Typing in Progress](https://github.com/user-attachments/assets/ad41325a-dbad-4e7c-82b5-4d7d0cc5cab5)
+
+### Settings Panel
+![Settings Panel](https://github.com/user-attachments/assets/f6dfeac2-fcec-45de-95f8-6d1a2307ed4a)
+
+### Serika Theme
+![Serika Theme](https://github.com/user-attachments/assets/bd84921b-1771-4d29-8357-9d44828b29a5)
+
+### Time Mode
+![Time Mode](https://github.com/user-attachments/assets/38a11a16-ab2c-4af0-aa32-d55be8339832)
 
 ## Features ✨
 
