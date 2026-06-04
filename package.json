@@ -1,7 +1,7 @@
 {
-  "name": "monkey-type-clone",
+  "name": "keysprint",
   "version": "1.0.0",
-  "description": "A beautiful, feature-complete clone of MonkeyType - the minimalist typing test",
+  "description": "KeySprint - A fast and minimal typing speed trainer",
   "main": "index.js",
   "scripts": {
     "dev": "live-server --port=3000",
@@ -9,12 +9,13 @@
   },
   "keywords": [
     "typing",
-    "test",
-    "monkeytype",
+    "typing-test",
+    "speed-test",
     "wpm",
-    "speed"
+    "keysprint",
+    "typing-trainer"
   ],
-  "author": "",
+  "author": "HP",
   "license": "MIT",
   "dependencies": {
     "express": "^4.18.2"

@@ -1,40 +1,40 @@
 /* CSS Variables for Themes */
 :root {
-    --bg-color: #323437;
-    --sub-color: #646669;
-    --main-color: #d1d0c5;
-    --text-color: #d1d0c5;
-    --error-color: #ca4754;
-    --error-extra-color: #7e2a33;
-    --colorful-error-color: #ca4754;
-    --colorful-error-extra-color: #7e2a33;
+    --bg-color: #0f172a;
+    --sub-color: #64748b;
+    --main-color: #38bdf8;
+    --text-color: #e2e8f0;
+    --error-color: #ef4444;
+    --error-extra-color: #b91c1c;
+    --colorful-error-color: #ef4444;
+    --colorful-error-extra-color: #b91c1c;
 }
 
 [data-theme="light"] {
-    --bg-color: #f4f4f4;
-    --sub-color: #9b9b9b;
-    --main-color: #646669;
-    --text-color: #323437;
-    --error-color: #ca4754;
-    --error-extra-color: #ff6b7d;
+    --bg-color: #f8fafc;
+    --sub-color: #94a3b8;
+    --main-color: #2563eb;
+    --text-color: #0f172a;
+    --error-color: #ef4444;
+    --error-extra-color: #dc2626;
 }
 
 [data-theme="serika"] {
-    --bg-color: #e2b714;
-    --sub-color: #989898;
-    --main-color: #323437;
-    --text-color: #323437;
-    --error-color: #ca4754;
-    --error-extra-color: #7e2a33;
+    --bg-color: #111827;
+    --sub-color: #6b7280;
+    --main-color: #22c55e;
+    --text-color: #e5e7eb;
+    --error-color: #ef4444;
+    --error-extra-color: #b91c1c;
 }
 
 [data-theme="dracula"] {
-    --bg-color: #282a36;
-    --sub-color: #6272a4;
-    --main-color: #f8f8f2;
-    --text-color: #f8f8f2;
-    --error-color: #ff5555;
-    --error-extra-color: #ff6e6e;
+    --bg-color: #1e1e2e;
+    --sub-color: #94a3b8;
+    --main-color: #a78bfa;
+    --text-color: #e2e8f0;
+    --error-color: #f43f5e;
+    --error-extra-color: #be123c;
 }
 
 /* Reset and Base Styles */
