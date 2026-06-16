@@ -1,5 +1,5 @@
 // Application State
-const state = {
+const state = {1
     mode: 'words',
     modeValue: 25,
     testActive: false,
