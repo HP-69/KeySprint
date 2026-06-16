@@ -1,5 +1,5 @@
 {
-  "name": "keysprint",1
+  "name": "keysprint",
   "version": "1.0.0",
   "description": "KeySprint - A fast and minimal typing speed trainer",
   "main": "index.js",
