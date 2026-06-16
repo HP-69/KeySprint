@@ -14,4 +14,4 @@ app.get('*', (req, res) => {
 app.listen(PORT, () => {
   console.log(`MonkeyType Clone running on port ${PORT}`);
 });
-1
+
