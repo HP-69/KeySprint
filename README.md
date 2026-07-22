@@ -3,7 +3,7 @@
 **KeySprint** is a fast, minimalist typing speed trainer built with vanilla JavaScript, HTML, and CSS.
 It helps users practice typing while tracking speed, accuracy, and consistency in real time.
 
-----
+---
 
 ## Features ✨
 
